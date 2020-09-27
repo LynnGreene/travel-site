@@ -2,6 +2,8 @@
 @import "base/_variables";
 @import "base/_mixins";
 @import "base/_global";
+@import "modules/_site-header";
+@import "modules/_primary-nav";
 @import "modules/_page-section";
 @import "modules/_headline";
 @import "modules/_section-title";
