@@ -25,6 +25,7 @@ module.exports = {
 		host        : '0.0.0.0',
 	},
 	mode      : 'development',
+	devtool   : 'source-map',
 	module    : {
 		rules : [
 			{
